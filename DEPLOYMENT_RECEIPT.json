@@ -1,0 +1,14 @@
+{
+  "project": "bernhard-riemann-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "7cDUhKCvUqCyR2geqH8rQxiaL9JitdvgWb1CQD6upEb5",
+  "vault_account": "5khjtqSnWVvfoU5zBDbgKGxKcMRDJeCgRpMdYBH6gHCQ",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "P6Vg68E6LdLgX6Kt7WJTs5QkFbUBWRNYGfd2aoJ8nAfUcqPYF2JXKAK6DTmtXjCTYMFwAcqTJm8JZ8m1xwWFDyf",
+  "account_tx": "2YMcqGSdF7JzQWBpLGyBCXfsdQsoYNC5oKiu713wuLn19dm7L6LE8tUxuN1mYvQGV6NUhVfLnfHxjDJ4VuRVbiUG",
+  "mint_tx": "3B8q9GJ19BZAEUj1F3LkTsiqD4ybKxyhixK4SE3pWxcDoMTJKCVeA6oR863Ho1XuUZg7ZGTZr4cDjyUhbYctWpcX",
+  "solana_explorer_mint": "https://explorer.solana.com/address/7cDUhKCvUqCyR2geqH8rQxiaL9JitdvgWb1CQD6upEb5?cluster=devnet",
+  "timestamp": "2026-10-26 16:22:04 UTC"
+}
